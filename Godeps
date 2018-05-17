@@ -1,0 +1,2 @@
+# Correct protoc-gen-go
+github.com/gogo/protobuf/proto          v1.0.0

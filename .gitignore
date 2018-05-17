@@ -1,2 +1,4 @@
 .godeps
 .idea
+bin
+pkg
